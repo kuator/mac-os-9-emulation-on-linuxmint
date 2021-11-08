@@ -22,6 +22,11 @@ Download an Mac OS 9 iso from https://winworldpc.com/product/mac-os-9/90
 
 ![image](https://user-images.githubusercontent.com/25168308/140709237-a3b89e05-9d5d-4b49-88fa-97dd6c72854c.png)
 
+It's necessary to set read-only permissions for the ISO
+```
+$ chmod 0444 Apple\ MacOS\ 9.0.4.iso
+```
+
 The rest of the guide: https://www.youtube.com/watch?v=hwX-QMPqrRg \
 How to enable sound: https://www.youtube.com/watch?v=-uealjJ2YCQ \
 Extra info if needed https://marstella.net/?p=219 
