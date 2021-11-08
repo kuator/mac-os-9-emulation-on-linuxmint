@@ -24,6 +24,6 @@ Download an Mac OS 9 iso from https://winworldpc.com/product/mac-os-9/90
 
 The rest of the guide: https://www.youtube.com/watch?v=hwX-QMPqrRg \
 How to enable sound: https://www.youtube.com/watch?v=-uealjJ2YCQ \
-Extra info if needed https://marstella.net/?p=219 \
+Extra info if needed https://marstella.net/?p=219 
 
 Before running sheep-shaver, run `sudo sysctl vm.mmap_min_addr=0`
