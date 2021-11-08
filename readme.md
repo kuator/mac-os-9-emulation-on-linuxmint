@@ -11,7 +11,7 @@ Download ROM file from https://www.redundantrobot.com/sheepshaver_files/roms/new
 ![https://www.redundantrobot.com/sheepshaver_files/roms/newworld86.rom.zip](https://user-images.githubusercontent.com/25168308/140708149-d3e2fdad-1b5f-4a43-9ed8-25c1ea9bafda.png)
 
 
-It's necessary rename the rom file to 'Mac OS ROM'
+It's necessary to rename the rom file to 'Mac OS ROM'
 ```
 $ cd ~/Downloads
 $ mv newworld86.rom Mac\ OS\ ROM
